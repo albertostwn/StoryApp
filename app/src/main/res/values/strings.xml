@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Bercerita itu begitu mengasyikkan. Ayo bercerita di Story App!</string>
+    <string name="title_welcome_page">Selamat datang di Story App</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="title_login_page">Sudah siap untuk bercerita?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Belajar di Dicoding.</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="required">Required</string>
+
+
+    <string name="copyright">© 2022 RMD</string>
+    <string name="account">Don\'t have an account?</string>
+    <string name="register_here">REGISTER HERE</string>
+    <string name="haveAccount">Have an account?</string>
+    <string name="email_invalid">Email format is invalid</string>
+    <string name="password_less_than_6">Password less then 8</string>
+    <string name="create_account">Create Account</string>
+    <string name="enter_your_email">Enter Your Email!</string>
+    <string name="enter_your_password">Enter Your Password!</string>
+    <string name="enter_your_name">Enter Your Name!</string>
+    <string name="second_ago">second ago</string>
+    <string name="minutes_ago">minutes ago</string>
+    <string name="hours_ago">hours ago</string>
+    <string name="days_ago">days ago</string>
+    <string name="language">Languages</string>
+    <string name="text_uploaded">Uploaded on</string>
+    <string name="add_story">Add Story</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="not_getting_permission">Not getting permission</string>
+    <string name="please_enter_picture">Please enter a picture first.</string>
+    <string name="network_unavailable">Network Unavailable!</string>
+    <string name="story_uploaded">Story uploaded</string>
+    <string name="login_failed">Login Failed</string>
+    <string name="account_created">Account Created</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="login_now">Login Now</string>
+    <string name="loading">Rilex…</string>
+    <string name="signup_failed">Failed Signup!</string>
+    <string name="appwidget_text">STORY APP BANNER</string>
+    <string name="image_view_story">Picture of logo Story</string>
+
+</resources>

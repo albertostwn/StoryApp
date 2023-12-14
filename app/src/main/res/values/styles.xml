@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TitleToolbar" parent="android:TextAppearance">
+        <item name="fontFamily">sans-serif-black</item>
+        <item name="android:textSize">20sp</item>
+        <item name="background">@color/white</item>
+    </style>
+
+    <style name="AppTheme.Dark.Dialog" parent="Theme.AppCompat.Dialog">
+        <item name="colorAccent">@color/white</item>
+        <item name="android:textColorPrimary">@color/iron</item>
+        <item name="android:background">@color/pink1</item>
+    </style>
+
+    <style name="MyButtonTheme" parent="Widget.MaterialComponents.Button">
+        <item name="materialThemeOverlay">@style/ButtonStyleTextColor</item>
+    </style>
+    <style name="ButtonStyleTextColor">
+        <item name="colorPrimary">@color/pink1</item>
+    </style>
+
+    <style name="CustomDialogLoading" parent="Theme.MaterialComponents.Light.Dialog.Alert.Bridge">
+        <item name="android:windowMinWidthMajor">0dp</item>
+        <item name="android:windowMinWidthMinor">0dp</item>
+    </style>
+</resources>
